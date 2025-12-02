@@ -1,3 +1,17 @@
+pyttsx3
+SpeechRecognition
+wikipedia
+pyautogui
+pyjokes
+psutil
+requests
+opencv-python
+pillow
+pywhatkit
+geocoder
+
+# NOTE: PyAudio is usually required for microphone input (SpeechRecognition).
+# On Windows it's easiest to install via pipwin (instructions in README/PR description).
 # Requirements for J.A.R.V.I.S (Windows)
 # Note: For PyAudio on Windows, install with:
 #   pip install pipwin
